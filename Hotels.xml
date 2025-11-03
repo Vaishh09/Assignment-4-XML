@@ -2,7 +2,6 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://vaishh09.github.io/Assignment-4-XML/Hotels.xsd">
 
-  <!-- sample from the PDF -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -44,7 +43,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.4">
     <Name>Hilton Phoenix Resort at the Peak</Name>
     <Phone>602-997-2626</Phone>
     <Address>
@@ -70,7 +69,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.5">
     <Name>Omni Scottsdale Resort &amp; Spa at Montelucia</Name>
     <Phone>480-627-3200</Phone>
     <Address>
@@ -96,7 +95,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
     <Address>
@@ -109,7 +108,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Residence Inn Tempe Downtown/University</Name>
     <Phone>480-967-2300</Phone>
     <Address>
@@ -136,7 +135,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Hilton Garden Inn Phoenix/Tempe ASU Area</Name>
     <Phone>480-968-2424</Phone>
     <Address>
