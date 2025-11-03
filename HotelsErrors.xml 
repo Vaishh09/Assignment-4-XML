@@ -4,13 +4,12 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
@@ -18,25 +17,23 @@
     <Name>Marriott Downtown</Name>
     <Phone>480-555-1234</Phone>
     <Phone>800-228-9290</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>W Rio Salado Pkwy</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel>
     <Name>Hampton Inn Phoenix</Name>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>4234</Number>
       <Street>E University Dr</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85034</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
@@ -50,101 +47,18 @@
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85253</Zip>
-      <NearestAirport>Scottsdale Airport</NearestAirport>
   </Hotel>
 
   <Hotel Rating="4.0">
     <Name>Sheraton Mesa Hotel</Name>
     <Name>Sheraton Mesa Hotel and Convention Center</Name>
     <Phone>480-898-8300</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>200</Number>
       <Street>N Centennial Way</Street>
       <City>Mesa</City>
       <State>AZ</State>
       <Zip>85201</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>Courtyard Chandler</Name>
-    <Phone>480-899-9100</Phone>
-    <Phone>888-236-2427</Phone>
-    <Address>
-      <Number>1221</Number>
-      <Street>S Spectrum Blvd</Street>
-      <City>Chandler</City>
-      <State>AZ</State>
-      <Zip>85286</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="3.9">
-    <Name>Holiday Inn Express Gilbert</Name>
-    <Phone>480-926-7600</Phone>
-    <Address>
-      <Number>2725</Number>
-      <Street>S Market St</Street>
-      <City>Gilbert</City>
-      <State>AZ</State>
-      <Zip>85295</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.3">
-    <Name>Embassy Suites Tempe</Name>
-    <Phone>480-897-7444</Phone>
-    <Phone>800-362-2779</Phone>
-    <Address>
-      <Number>4400</Number>
-      <Street>S Rural Rd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85282</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.6">
-    <Name>Hyatt Place Phoenix</Name>
-    <Phone>602-252-1234</Phone>
-    <Address>
-      <Number>132</Number>
-      <Street>S Central Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>Best Western Chandler Inn</Name>
-    <Phone>480-961-4444</Phone>
-    <Phone>800-780-7234</Phone>
-    <Address>
-      <Number>7475</Number>
-      <Street>W Chandler Blvd</Street>
-      <City>Chandler</City>
-      <State>AZ</State>
-      <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.1">
-    <Name>Residence Inn Mesa</Name>
-    <Phone>480-610-0100</Phone>
-    <Address>
-      <Number>941</Number>
-      <Street>W Grove Ave</Street>
-      <City>Mesa</City>
-      <State>AZ</State>
-      <Zip>85210</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 </Hotel>
