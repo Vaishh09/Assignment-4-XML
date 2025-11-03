@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Vaishh09/Assignment-4-XML/main/Hotels.xsd">
+        xsi:noNamespaceSchemaLocation="https://vaishh09.github.io/Assignment-4-XML/Hotels.xsd">
 
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -16,9 +16,9 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+
+  <Hotel Rating="4.1">
     <Name>Hyatt Place Tempe/Phoenix Airport</Name>
-    <Name>Duplicate Name</Name>
     <Address>
       <Number>1413</Number>
       <Street>W Rio Salado Pkwy</Street>
@@ -29,10 +29,10 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.4">
+
+  <Hotel Rating="4.3">
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
-    <Phone>888-236-2427</Phone>
     <Address>
       <Number>340</Number>
       <Street>N 3rd St</Street>
@@ -40,96 +40,18 @@
       <State>AZ</State>
       <Zip>85004</Zip>
       <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
+  
 
   <Hotel Rating="4.4">
     <Name>Hilton Phoenix Resort at the Peak</Name>
+    <Name>Duplicate Name Error</Name>
+    <Phone>602-997-2626</Phone>
     <Address>
       <Number>7677</Number>
       <Street>N 16th St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85020</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.0">
-    <Name>Graduate Tempe</Name>
-    <Phone>480-967-9431</Phone>
-    <Address>
-      <Number>225</Number>
-      <Street>E Apache Blvd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.5">
-    <Name>Omni Scottsdale Resort &amp; Spa at Montelucia</Name>
-    <Phone>480-627-3200</Phone>
-    <Address>
-      <Number>4949</Number>
-      <Street>E Lincoln Dr</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85253</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.4">
-    <Name>AC Hotel Phoenix Tempe/Downtown</Name>
-    <Phone>480-642-6140</Phone>
-    <Address>
-      <Number>100</Number>
-      <Street>E Rio Salado Pkwy</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>Courtyard by Marriott Tempe Downtown</Name>
-    <Phone>480-966-2800</Phone>
-    <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>Residence Inn Tempe Downtown/University</Name>
-    <Phone>480-967-2300</Phone>
-    <Address>
-      <Number>510</Number>
-      <Street>S Forest Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.5">
-    <Name>Hyatt Regency Phoenix</Name>
-    <Phone>602-252-1234</Phone>
-    <Phone>877-803-7534</Phone>
-    <Address>
-      <Number>122</Number>
-      <Street>N 2nd St</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
